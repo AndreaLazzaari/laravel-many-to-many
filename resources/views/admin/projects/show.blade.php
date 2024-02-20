@@ -19,7 +19,7 @@
                 {{ $project->author }}
             </p>
             <p>
-                {{ $project->type }}
+                {{ $project->type_id }}
             </p>
             <p>
                 {{ $project->date }}

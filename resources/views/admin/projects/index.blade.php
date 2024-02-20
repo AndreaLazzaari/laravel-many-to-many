@@ -38,7 +38,7 @@
                                 {{ $project->author }}
                             </td>
                             <td>
-                                {{ $project->type }}
+                                {{ $project->type_id }}
                             </td>
                             <td>
                                 {{ $project->date }}
